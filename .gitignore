@@ -4,3 +4,8 @@ obj
 *.suo
 _ReSharper.*
 *.sln.cache
+
+# VS2010 Upgrade
+Backup/*
+UpgradeLog.XML
+_UpgradeReport_Files/*
